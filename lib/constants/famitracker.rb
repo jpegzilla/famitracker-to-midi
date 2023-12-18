@@ -1,0 +1,3 @@
+module FamitrackerConstants
+
+end
