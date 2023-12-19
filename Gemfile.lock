@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    midilib (4.0.2)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  midilib
+
+BUNDLED WITH
+   2.4.14
